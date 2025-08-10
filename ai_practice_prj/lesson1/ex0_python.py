@@ -1,0 +1,1 @@
+print("Hello, Im from external file")
